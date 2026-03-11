@@ -53,6 +53,7 @@ Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_Herrami
 |---|---|
 | **Lunes 10** | Decidí aprender Vue antes de seguir evaluando herramientas, ya que la mayoría (VuePress, Nuxt/Docus) se basan en él. Empecé el curso *Learn Vue 3 Step by Step* de Laracasts. |
 | **Martes 11** | Seguí avanzando con los tutoriales de Vue (componentes, props, eventos…). Creé el repositorio [CD_AprendizajeVue](https://github.com/rsvisu/CD_AprendizajeVue) para subir el código de los ejercicios. |
+| **Miércoles 12** | Continué con el curso de Vue, avanzando con más secciones del tutorial (Options API, beyond the basics, slots, componentes flexibles…). |
 
 ## Anexo — Repositorios relacionados
 
