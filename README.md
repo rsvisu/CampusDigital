@@ -55,6 +55,7 @@ Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_Herrami
 | **Martes 10** | Seguí avanzando con los tutoriales de Vue (componentes, props, eventos…). Creé el repositorio [CD_AprendizajeVue](https://github.com/rsvisu/CD_AprendizajeVue) para subir el código de los ejercicios. |
 | **Miércoles 11** | Continué con el curso de Vue, avanzando con más secciones del tutorial (Options API, beyond the basics, slots, componentes flexibles…). |
 | **Jueves 12** | Seguí con los tutoriales de Vue, continuando con la Composition API. |
+| **Viernes 13** | Configuré una GitHub Action en el repositorio [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_HerramientasDocumentacion) para desplegar automáticamente los distintos proyectos (VuePress con temas default, Hope y Plume) en un hosting externo (InfinityFree), facilitando la comparativa visual entre las diferentes alternativas. |
 
 ## Anexo — Repositorios relacionados
 
