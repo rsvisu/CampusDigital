@@ -57,6 +57,13 @@ Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_Herrami
 | **Jueves 12** | Seguí con los tutoriales de Vue, continuando con la Composition API. |
 | **Viernes 13** | Configuré una GitHub Action en el repositorio [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_HerramientasDocumentacion) para desplegar automáticamente los distintos proyectos (VuePress con temas default, Hope y Plume) en un hosting externo (InfinityFree), facilitando la comparativa visual entre las diferentes alternativas. |
 
+#### Semana 3
+
+| Día | Actividad |
+|---|---|
+| **Lunes 16** | Continué con los tutoriales de Vue, viendo videos sobre manejo de estado (Pinia), composables avanzados, y organización del código. |
+| **Martes 17** | Añadí la documentación del Campus Digital al tema Hope de VuePress para hacer una prueba visual. Los resultados son muy buenos con configuraciones básicas. Presenté al tutor de la empresa el avance realizado hasta ahora. |
+
 ## Anexo — Repositorios relacionados
 
 | Repositorio | Descripción |
