@@ -63,6 +63,8 @@ Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_Herrami
 |---|---|
 | **Lunes 16** | Continué con los tutoriales de Vue, viendo videos sobre manejo de estado (Pinia), composables avanzados, y organización del código. |
 | **Martes 17** | Añadí la documentación del Campus Digital al tema Hope de VuePress para hacer una prueba visual. Los resultados son muy buenos con configuraciones básicas. Presenté al tutor de la empresa el avance realizado hasta ahora. |
+| **Miércoles 18** | Continué avanzando en el tutorial de Laracasts, profundizando en conceptos de Composition API y patrones de uso. |
+| **Jueves 19** | Completé el tutorial *Learn Vue 3 Step by Step* de Laracasts. Ahora tengo una base sólida en Vue 3 (Options API y Composition API) para poder continuar con la evaluación de herramientas de documentación más informadamente. |
 
 ## Anexo — Repositorios relacionados
 
