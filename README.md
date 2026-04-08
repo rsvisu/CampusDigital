@@ -65,6 +65,17 @@ Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_Herrami
 | **Martes 17** | Añadí la documentación del Campus Digital al tema Hope de VuePress para hacer una prueba visual. Los resultados son muy buenos con configuraciones básicas. Presenté al tutor de la empresa el avance realizado hasta ahora. |
 | **Miércoles 18** | Continué avanzando en el tutorial de Laracasts, profundizando en conceptos de Composition API y patrones de uso. |
 | **Jueves 19** | Completé el tutorial *Learn Vue 3 Step by Step* de Laracasts. Ahora tengo una base sólida en Vue 3 (Options API y Composition API) para poder continuar con la evaluación de herramientas de documentación más informadamente. |
+| **Viernes 20** | Dedicé el día a practicar Vue consolidando conceptos. Creé pequeños componentes reutilizables y experimenté con la Composition API en proyectos propios. |
+
+#### Semana 4
+
+| Día | Actividad |
+|---|---|
+| **Lunes 23** | Continué practicando Vue, profundizando en composables personalizados y patrones avanzados de manejo de estado. |
+| **Martes 24** | Trabajé en la construcción de componentes más complejos, integrando validación y gestión de datos con Pinia. |
+| **Miércoles 25** | Experimenté con Vue Router en un proyecto de prueba, creando varias vistas y navegación entre ellas. |
+| **Jueves 26** | Continué mejorando mis proyectos prácticos, añadiendo funcionalidades como componentes dinámicos basados en condiciones. |
+| **Viernes 27** | Dediqué el día a refactorizar código anterior, aplicando buenas prácticas de Vue y consolidando lo aprendido en los últimos días. |
 
 ## Anexo — Repositorios relacionados
 
