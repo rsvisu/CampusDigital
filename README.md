@@ -33,7 +33,9 @@ Aspectos a resolver:
 
 #### Trabajo realizado
 
-Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_HerramientasDocumentacion) *(privado)*
+Repositorios:
+- [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_HerramientasDocumentacion) *(privado)* — Pruebas iniciales con diferentes herramientas
+- [Nueva_Documentacion](https://github.com/FPVirtual/Nueva_Documentacion) *(en desarrollo)* — Solución final con Astro + Starlight
 
 ## Diario de prácticas
 
@@ -77,9 +79,31 @@ Repositorio: [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_Herrami
 | **Jueves 26** | Continué mejorando mis proyectos prácticos, añadiendo funcionalidades como componentes dinámicos basados en condiciones. |
 | **Viernes 27** | Dediqué el día a refactorizar código anterior, aplicando buenas prácticas de Vue y consolidando lo aprendido en los últimos días. |
 
+### Abril 2026
+
+#### Semana 5
+
+| Día | Actividad |
+|---|---|
+| **Martes 7** | Vuelta de semana santa. Retomé las actividades de prácticas en el Campus Digital y comencé la preparación de una presentación sobre frameworks web para exponer ante estudiantes de primero. |
+| **Miércoles 8** | Continué preparando la presentación sobre frameworks, profundizando en los conceptos, ventajas y casos de uso, usando Vue 3 como framework de referencia. |
+| **Jueves 9** | Finalicé la preparación de la presentación, puliendo el contenido y los ejemplos de código. |
+| **Viernes 10** | Realicé la presentación en la sala de actos del Campus Digital ante estudiantes de **1º Desarrollo Web** y **1º Desarrollo Multiplataforma**. Expliqué qué son los frameworks web, sus principales ventajas (productividad, mantenibilidad, comunidad), casos de uso comunes, y presenté Vue como ejemplo de framework moderno y progresivo. |
+
+#### Semana 6
+
+| Día | Actividad |
+|---|---|
+| **Lunes 13** | Tras decidir que **Astro con Starlight** es la herramienta elegida para el proyecto de documentación, inicié el repositorio e instalé el proyecto base con la configuración inicial. Además estuve investigando sobre Astro y el uso de Starlight. |
+| **Martes 14** | Configuré la infraestructura del proyecto: Docker, Nginx, variables de entorno, y un script de sincronización de documentación desde un repositorio externo. Configuré también el GitHub Action para auto-deploy automático en el servidor. |
+| **Miércoles 15** | Refactoricé la arquitectura del proyecto e hice ajustes en la estructura de carpetas y configuración general. |
+| **Jueves 16** | Implementé funcionalidades adicionales como la personalización de temas (CSS y configuraciones) desde el repositorio externo y realicé varios fixes y optimizaciones al proyecto. |
+| **Viernes 17** | Tuve una reunión con el tutor de la empresa para presentar y discutir los progresos realizados en el proyecto de documentación, y luego asistí a la tutoría de seguimiento en el instituto. |
+
 ## Anexo — Repositorios relacionados
 
 | Repositorio | Descripción |
 |---|---|
+| [Nueva_Documentacion](https://github.com/FPVirtual/Nueva_Documentacion) | Proyecto de documentación interna usando **Astro + Starlight** con sincronización automática de contenido desde repositorio externo, Docker, Nginx, y GitHub Actions para auto-deploy. |
 | [CD_HerramientasDocumentacion](https://github.com/rsvisu/CD_HerramientasDocumentacion) *(privado)* | Pruebas con VuePress (tema default, Hope y Plume) y otras herramientas de documentación. |
 | [CD_AprendizajeVue](https://github.com/rsvisu/CD_AprendizajeVue) | Ejercicios y código de los ejercicios realizados para aprender Vue. |
