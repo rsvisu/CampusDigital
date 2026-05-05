@@ -67,7 +67,7 @@ Repositorios:
 | **Martes 17** | Añadí la documentación del Campus Digital al tema Hope de VuePress para hacer una prueba visual. Los resultados son muy buenos con configuraciones básicas. Presenté al tutor de la empresa el avance realizado hasta ahora. |
 | **Miércoles 18** | Continué avanzando en el tutorial de Laracasts, profundizando en conceptos de Composition API y patrones de uso. |
 | **Jueves 19** | Completé el tutorial *Learn Vue 3 Step by Step* de Laracasts. Ahora tengo una base sólida en Vue 3 (Options API y Composition API) para poder continuar con la evaluación de herramientas de documentación más informadamente. |
-| **Viernes 20** | Dedicé el día a practicar Vue consolidando conceptos. Creé pequeños componentes reutilizables y experimenté con la Composition API en proyectos propios. |
+| **Viernes 20** | Dedicé el día a practicar Vue consolidando conceptos, y luego asistí a la tutoría de seguimiento en el instituto. |
 
 #### Semana 4
 
@@ -105,8 +105,8 @@ Repositorios:
 | Día | Actividad |
 |---|---|
 | **Lunes 20** | Continuó el desarrollo del proyecto de documentación. Trabajé en la mejora de la sincronización de documentación con mejor manejo de cambios en el repositorio externo. |
-| **Martes 21** | Realicé múltiples refactorizaciones y mejoras del proyecto: refactoricé el Dockerfile como imagen genérica con entrypoint dinámico, mejoré los mensajes de log del script de entrypoint, configuré el servicio Nginx como proceso principal, cambié la política de reinicio a "no", actualicé configuraciones de docker-compose de desarrollo, configuré un flujo de trabajo en GitHub Actions para construir y publicar imagen Docker, fusioné main con ci/static, y actualicé el tag de la imagen a latest. |
-| **Miércoles 22** | Implementé la posibilidad de elegir carpeta base y rama del repositorio de documentación, añadiendo mayor flexibilidad al sistema. También trabajé en mejoras de CI/CD y realicé documentación de cambios en los puertos (4321 a 8080). Implementé una mejora importante: el pull del repositorio de documentación ahora no tira error aunque falle, permitiendo que el contenedor siga usando lo que ya tiene. |
+| **Martes 21** | Realicé múltiples refactorizaciones y mejoras del proyecto: refactoricé el Dockerfile como imagen genérica con entrypoint dinámico, mejoré los mensajes de log del script de entrypoint, configuré el servicio Nginx como proceso principal, actualicé configuraciones de docker-compose de desarrollo, configuré un flujo de trabajo en GitHub Actions para construir y publicar imagen Docker, fusioné main con ci/static, y actualicé el tag de la imagen a latest. |
+| **Miércoles 22** | Implementé la posibilidad de elegir carpeta base y rama del repositorio de documentación, añadiendo mayor flexibilidad al sistema. También trabajé en mejoras de CI/CD y realicé documentación de cambios en los puertos (4321 a 8080). Implementé una mejora importante: el pull del repositorio de documentación ahora no da error aunque falle, permitiendo que el contenedor siga usando lo que ya tiene. |
 
 #### Semana 8
 
@@ -115,7 +115,7 @@ Repositorios:
 | **Lunes 27** | Cambié de enfoque para profundizar en herramientas fundamentales. Dediqué el día a estudiar **Git** con el objetivo de afianzar conocimientos y aprender **GitHub Flow** (manejo de ramas, pull requests y workflows colaborativos). |
 | **Martes 28** | Continué la formación técnica. Realicé tutoriales sobre **Node.js** y llevé a cabo un pequeño ejercicio práctico construyendo una aplicación con **Express**. |
 | **Miércoles 29** | Comencé la investigación del ecosistema **Nuxt** y la herramienta **Nuxt Studio**. Estudié sus características, integración con repositorios, y flujo de trabajo. |
-| **Jueves 30** | Continué investigando **Nuxt Studio**. Realicé un despliegue completo de **Nuxt Studio** en la miniPC del servidor de la empresa, implementando **autenticación con GitLab local** para integración con el flujo de trabajo del equipo. |
+| **Jueves 30** | Continué investigando **Nuxt Studio**. Realicé un despliegue completo de **Nuxt Studio** en el Mini PC del servidor de la empresa, implementando **autenticación con GitLab local** para integración con el flujo de trabajo del equipo. |
 
 ## Anexo — Repositorios relacionados
 
